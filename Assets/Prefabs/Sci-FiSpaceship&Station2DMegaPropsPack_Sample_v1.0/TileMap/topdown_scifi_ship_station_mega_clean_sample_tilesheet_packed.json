@@ -1,0 +1,346 @@
+{
+  "type": "packed-texture-atlas",
+  "image": "topdown_scifi_ship_station_mega_clean_sample_tilesheet_packed.png",
+  "count": 24,
+  "width": 1024,
+  "height": 960,
+  "spacing": 4,
+  "frames": {
+    "security_turret_floor": {
+      "category": "systems",
+      "file": "Tiles/Systems/scifi_systems_security_turret_floor_01.png",
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "width": 192,
+        "height": 192
+      },
+      "anchor": {
+        "x": 96,
+        "y": 181
+      }
+    },
+    "door_airlock_round": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/scifi_architecture_door_airlock_round_01.png",
+      "frame": {
+        "x": 200,
+        "y": 4,
+        "width": 189,
+        "height": 192
+      },
+      "anchor": {
+        "x": 94,
+        "y": 181
+      }
+    },
+    "wall_window_space": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/scifi_architecture_wall_window_space_01.png",
+      "frame": {
+        "x": 393,
+        "y": 4,
+        "width": 189,
+        "height": 192
+      },
+      "anchor": {
+        "x": 94,
+        "y": 181
+      }
+    },
+    "floor_glow_strip": {
+      "category": "architecture",
+      "file": "Tiles/Architecture/scifi_architecture_floor_glow_strip_01.png",
+      "frame": {
+        "x": 586,
+        "y": 4,
+        "width": 187,
+        "height": 192
+      },
+      "anchor": {
+        "x": 93,
+        "y": 181
+      }
+    },
+    "companion_bot_small": {
+      "category": "crew_tech",
+      "file": "Tiles/CrewTech/scifi_crew_tech_companion_bot_small_01.png",
+      "frame": {
+        "x": 777,
+        "y": 4,
+        "width": 182,
+        "height": 192
+      },
+      "anchor": {
+        "x": 91,
+        "y": 179
+      }
+    },
+    "cargo_container_stack": {
+      "category": "cargo",
+      "file": "Tiles/Cargo/scifi_cargo_cargo_container_stack_01.png",
+      "frame": {
+        "x": 4,
+        "y": 200,
+        "width": 176,
+        "height": 192
+      },
+      "anchor": {
+        "x": 88,
+        "y": 181
+      }
+    },
+    "fusion_cell_rack": {
+      "category": "engineering",
+      "file": "Tiles/Engineering/scifi_engineering_fusion_cell_rack_01.png",
+      "frame": {
+        "x": 184,
+        "y": 200,
+        "width": 176,
+        "height": 192
+      },
+      "anchor": {
+        "x": 88,
+        "y": 181
+      }
+    },
+    "spacesuit_rack": {
+      "category": "cargo",
+      "file": "Tiles/Cargo/scifi_cargo_spacesuit_rack_01.png",
+      "frame": {
+        "x": 364,
+        "y": 200,
+        "width": 174,
+        "height": 192
+      },
+      "anchor": {
+        "x": 87,
+        "y": 181
+      }
+    },
+    "medbay_pod_bed": {
+      "category": "medical_lab",
+      "file": "Tiles/MedicalLab/scifi_medical_lab_medbay_pod_bed_01.png",
+      "frame": {
+        "x": 542,
+        "y": 200,
+        "width": 173,
+        "height": 192
+      },
+      "anchor": {
+        "x": 86,
+        "y": 181
+      }
+    },
+    "helmet_display_stand": {
+      "category": "crew_tech",
+      "file": "Tiles/CrewTech/scifi_crew_tech_helmet_display_stand_01.png",
+      "frame": {
+        "x": 719,
+        "y": 200,
+        "width": 161,
+        "height": 192
+      },
+      "anchor": {
+        "x": 80,
+        "y": 180
+      }
+    },
+    "captain_command_chair": {
+      "category": "bridge",
+      "file": "Tiles/Bridge/scifi_bridge_captain_command_chair_01.png",
+      "frame": {
+        "x": 4,
+        "y": 396,
+        "width": 159,
+        "height": 192
+      },
+      "anchor": {
+        "x": 79,
+        "y": 182
+      }
+    },
+    "holo_globe_device": {
+      "category": "crew_tech",
+      "file": "Tiles/CrewTech/scifi_crew_tech_holo_globe_device_01.png",
+      "frame": {
+        "x": 167,
+        "y": 396,
+        "width": 158,
+        "height": 192
+      },
+      "anchor": {
+        "x": 79,
+        "y": 178
+      }
+    },
+    "loading_robot_arm": {
+      "category": "cargo",
+      "file": "Tiles/Cargo/scifi_cargo_loading_robot_arm_01.png",
+      "frame": {
+        "x": 329,
+        "y": 396,
+        "width": 147,
+        "height": 192
+      },
+      "anchor": {
+        "x": 73,
+        "y": 181
+      }
+    },
+    "alarm_beacon_red": {
+      "category": "systems",
+      "file": "Tiles/Systems/scifi_systems_alarm_beacon_red_01.png",
+      "frame": {
+        "x": 480,
+        "y": 396,
+        "width": 139,
+        "height": 192
+      },
+      "anchor": {
+        "x": 69,
+        "y": 180
+      }
+    },
+    "hologlobe_floor_stand": {
+      "category": "bridge",
+      "file": "Tiles/Bridge/scifi_bridge_hologlobe_floor_stand_01.png",
+      "frame": {
+        "x": 623,
+        "y": 396,
+        "width": 139,
+        "height": 192
+      },
+      "anchor": {
+        "x": 69,
+        "y": 180
+      }
+    },
+    "synth_food_dispenser": {
+      "category": "quarters",
+      "file": "Tiles/Quarters/scifi_quarters_synth_food_dispenser_01.png",
+      "frame": {
+        "x": 766,
+        "y": 396,
+        "width": 130,
+        "height": 192
+      },
+      "anchor": {
+        "x": 65,
+        "y": 181
+      }
+    },
+    "growth_tank_tube": {
+      "category": "medical_lab",
+      "file": "Tiles/MedicalLab/scifi_medical_lab_growth_tank_tube_01.png",
+      "frame": {
+        "x": 4,
+        "y": 592,
+        "width": 127,
+        "height": 192
+      },
+      "anchor": {
+        "x": 63,
+        "y": 180
+      }
+    },
+    "hydroponic_plant_pot": {
+      "category": "quarters",
+      "file": "Tiles/Quarters/scifi_quarters_hydroponic_plant_pot_01.png",
+      "frame": {
+        "x": 135,
+        "y": 592,
+        "width": 124,
+        "height": 192
+      },
+      "anchor": {
+        "x": 62,
+        "y": 179
+      }
+    },
+    "reactor_core_column": {
+      "category": "engineering",
+      "file": "Tiles/Engineering/scifi_engineering_reactor_core_column_01.png",
+      "frame": {
+        "x": 263,
+        "y": 592,
+        "width": 104,
+        "height": 192
+      },
+      "anchor": {
+        "x": 52,
+        "y": 182
+      }
+    },
+    "sleep_pod_bunk": {
+      "category": "quarters",
+      "file": "Tiles/Quarters/scifi_quarters_sleep_pod_bunk_01.png",
+      "frame": {
+        "x": 371,
+        "y": 592,
+        "width": 192,
+        "height": 190
+      },
+      "anchor": {
+        "x": 96,
+        "y": 178
+      }
+    },
+    "surgery_table_arms": {
+      "category": "medical_lab",
+      "file": "Tiles/MedicalLab/scifi_medical_lab_surgery_table_arms_01.png",
+      "frame": {
+        "x": 567,
+        "y": 592,
+        "width": 192,
+        "height": 181
+      },
+      "anchor": {
+        "x": 96,
+        "y": 170
+      }
+    },
+    "cooling_fan_vent": {
+      "category": "engineering",
+      "file": "Tiles/Engineering/scifi_engineering_cooling_fan_vent_01.png",
+      "frame": {
+        "x": 763,
+        "y": 592,
+        "width": 192,
+        "height": 173
+      },
+      "anchor": {
+        "x": 96,
+        "y": 161
+      }
+    },
+    "holo_table_projector": {
+      "category": "bridge",
+      "file": "Tiles/Bridge/scifi_bridge_holo_table_projector_01.png",
+      "frame": {
+        "x": 4,
+        "y": 788,
+        "width": 192,
+        "height": 163
+      },
+      "anchor": {
+        "x": 96,
+        "y": 152
+      }
+    },
+    "teleport_pad_ring": {
+      "category": "systems",
+      "file": "Tiles/Systems/scifi_systems_teleport_pad_ring_01.png",
+      "frame": {
+        "x": 200,
+        "y": 788,
+        "width": 192,
+        "height": 132
+      },
+      "anchor": {
+        "x": 96,
+        "y": 122
+      }
+    }
+  }
+}

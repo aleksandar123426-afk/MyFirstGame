@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 103e62bf70b684f149e704ca52cf3c70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -242808216995348928
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_0
+  - first:
+      213: 6535238492819632911
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_1
+  - first:
+      213: 174917570413741681
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_2
+  - first:
+      213: -1055410155951998031
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_3
+  - first:
+      213: 1554151962302801369
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_4
+  - first:
+      213: 8017911695640313459
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_5
+  - first:
+      213: -412107140965527050
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_6
+  - first:
+      213: -4769649864308446064
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_7
+  - first:
+      213: -1999221827821938096
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_8
+  - first:
+      213: -8325761449805480616
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_9
+  - first:
+      213: 6941683396992650670
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_10
+  - first:
+      213: 2262200043057449080
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_11
+  - first:
+      213: 8086018068334409330
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_12
+  - first:
+      213: -5032889058967455541
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_13
+  - first:
+      213: -1749222771164605231
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_14
+  - first:
+      213: 2465565187466099676
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_15
+  - first:
+      213: -5831228655777860124
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_16
+  - first:
+      213: -8033676769774836523
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_17
+  - first:
+      213: 6246293472304557902
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_18
+  - first:
+      213: 8934198885260291357
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_19
+  - first:
+      213: 613648843851316441
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_20
+  - first:
+      213: 4064999118638662213
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_21
+  - first:
+      213: 6129892904979647633
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_22
+  - first:
+      213: -7942502410162082519
+    second: topdown_scifi_ship_station_mega_clean_sample_tilesheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 391
+        width: 145
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e327d863f51acf0800000000000000
+      internalID: -242808216995348928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 392
+        width: 178
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0339f6b8c4d1ba50800000000000000
+      internalID: 6535238492819632911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 393
+        width: 121
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1764c718a9e6d6200800000000000000
+      internalID: 174917570413741681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 391
+        width: 90
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb34221e0e6a51f0800000000000000
+      internalID: -1055410155951998031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 391
+        width: 162
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5e808b9f4719510800000000000000
+      internalID: 1554151962302801369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 392
+        width: 176
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e371bd438554f60800000000000000
+      internalID: 8017911695640313459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 392
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1195d1db6e74af0800000000000000
+      internalID: -412107140965527050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 391
+        width: 116
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ca7e618bccecdb0800000000000000
+      internalID: -4769649864308446064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 201
+        width: 106
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a577507565144e0800000000000000
+      internalID: -1999221827821938096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 200
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85df3bbb214f47c80800000000000000
+      internalID: -8325761449805480616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 199
+        width: 133
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead49fc5540d55060800000000000000
+      internalID: 6941683396992650670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 199
+        width: 160
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878005914f2f46f10800000000000000
+      internalID: 2262200043057449080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 199
+        width: 159
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2767672779e473070800000000000000
+      internalID: 8086018068334409330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 111
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc87b46f016972ab0800000000000000
+      internalID: -5032889058967455541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 200
+        width: 176
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d495bb482389b7e0800000000000000
+      internalID: -1749222771164605231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 199
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb7c719972773220800000000000000
+      internalID: 2465565187466099676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 178
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53848ce60531fa0800000000000000
+      internalID: -5831228655777860124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 8
+        width: 123
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d46349ca85a28090800000000000000
+      internalID: -8033676769774836523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 9
+        width: 143
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fed8b91da4fa650800000000000000
+      internalID: 6246293472304557902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 10
+        width: 138
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d61acfc86acfb70800000000000000
+      internalID: 8934198885260291357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 10
+        width: 163
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc369a4f5e148800800000000000000
+      internalID: 613648843851316441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 7
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542cbbe3927c96830800000000000000
+      internalID: 4064999118638662213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 7
+        width: 175
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ccf789e11c11550800000000000000
+      internalID: 6129892904979647633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdown_scifi_ship_station_mega_clean_sample_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 7
+        width: 173
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dea9e932096c190800000000000000
+      internalID: -7942502410162082519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_0: -242808216995348928
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_1: 6535238492819632911
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_10: 6941683396992650670
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_11: 2262200043057449080
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_12: 8086018068334409330
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_13: -5032889058967455541
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_14: -1749222771164605231
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_15: 2465565187466099676
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_16: -5831228655777860124
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_17: -8033676769774836523
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_18: 6246293472304557902
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_19: 8934198885260291357
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_2: 174917570413741681
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_20: 613648843851316441
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_21: 4064999118638662213
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_22: 6129892904979647633
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_23: -7942502410162082519
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_3: -1055410155951998031
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_4: 1554151962302801369
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_5: 8017911695640313459
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_6: -412107140965527050
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_7: -4769649864308446064
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_8: -1999221827821938096
+      topdown_scifi_ship_station_mega_clean_sample_tilesheet_9: -8325761449805480616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

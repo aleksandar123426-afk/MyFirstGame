@@ -1,0 +1,307 @@
+{
+  "pack": "Sci-Fi Spaceship & Station 2D Mega Props Pack (Free Sample)",
+  "version": "v1.0",
+  "status": "sample",
+  "sample_tile_count": 24,
+  "full_tile_count": 144,
+  "categories": {
+    "bridge": 3,
+    "engineering": 3,
+    "quarters": 3,
+    "cargo": 3,
+    "medical_lab": 3,
+    "systems": 3,
+    "crew_tech": 3,
+    "architecture": 3
+  },
+  "assets": [
+    {
+      "name": "captain_command_chair",
+      "category": "bridge",
+      "file": "Tiles/Bridge/scifi_bridge_captain_command_chair_01.png",
+      "width": 159,
+      "height": 192,
+      "anchor": {
+        "x": 79,
+        "y": 182
+      },
+      "padding": 10
+    },
+    {
+      "name": "holo_table_projector",
+      "category": "bridge",
+      "file": "Tiles/Bridge/scifi_bridge_holo_table_projector_01.png",
+      "width": 192,
+      "height": 163,
+      "anchor": {
+        "x": 96,
+        "y": 152
+      },
+      "padding": 11
+    },
+    {
+      "name": "hologlobe_floor_stand",
+      "category": "bridge",
+      "file": "Tiles/Bridge/scifi_bridge_hologlobe_floor_stand_01.png",
+      "width": 139,
+      "height": 192,
+      "anchor": {
+        "x": 69,
+        "y": 180
+      },
+      "padding": 12
+    },
+    {
+      "name": "reactor_core_column",
+      "category": "engineering",
+      "file": "Tiles/Engineering/scifi_engineering_reactor_core_column_01.png",
+      "width": 104,
+      "height": 192,
+      "anchor": {
+        "x": 52,
+        "y": 182
+      },
+      "padding": 10
+    },
+    {
+      "name": "fusion_cell_rack",
+      "category": "engineering",
+      "file": "Tiles/Engineering/scifi_engineering_fusion_cell_rack_01.png",
+      "width": 176,
+      "height": 192,
+      "anchor": {
+        "x": 88,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "cooling_fan_vent",
+      "category": "engineering",
+      "file": "Tiles/Engineering/scifi_engineering_cooling_fan_vent_01.png",
+      "width": 192,
+      "height": 173,
+      "anchor": {
+        "x": 96,
+        "y": 161
+      },
+      "padding": 12
+    },
+    {
+      "name": "sleep_pod_bunk",
+      "category": "quarters",
+      "file": "Tiles/Quarters/scifi_quarters_sleep_pod_bunk_01.png",
+      "width": 192,
+      "height": 190,
+      "anchor": {
+        "x": 96,
+        "y": 178
+      },
+      "padding": 12
+    },
+    {
+      "name": "synth_food_dispenser",
+      "category": "quarters",
+      "file": "Tiles/Quarters/scifi_quarters_synth_food_dispenser_01.png",
+      "width": 130,
+      "height": 192,
+      "anchor": {
+        "x": 65,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "hydroponic_plant_pot",
+      "category": "quarters",
+      "file": "Tiles/Quarters/scifi_quarters_hydroponic_plant_pot_01.png",
+      "width": 124,
+      "height": 192,
+      "anchor": {
+        "x": 62,
+        "y": 179
+      },
+      "padding": 13
+    },
+    {
+      "name": "cargo_container_stack",
+      "category": "cargo",
+      "file": "Tiles/Cargo/scifi_cargo_cargo_container_stack_01.png",
+      "width": 176,
+      "height": 192,
+      "anchor": {
+        "x": 88,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "loading_robot_arm",
+      "category": "cargo",
+      "file": "Tiles/Cargo/scifi_cargo_loading_robot_arm_01.png",
+      "width": 147,
+      "height": 192,
+      "anchor": {
+        "x": 73,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "spacesuit_rack",
+      "category": "cargo",
+      "file": "Tiles/Cargo/scifi_cargo_spacesuit_rack_01.png",
+      "width": 174,
+      "height": 192,
+      "anchor": {
+        "x": 87,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "medbay_pod_bed",
+      "category": "medical_lab",
+      "file": "Tiles/MedicalLab/scifi_medical_lab_medbay_pod_bed_01.png",
+      "width": 173,
+      "height": 192,
+      "anchor": {
+        "x": 86,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "growth_tank_tube",
+      "category": "medical_lab",
+      "file": "Tiles/MedicalLab/scifi_medical_lab_growth_tank_tube_01.png",
+      "width": 127,
+      "height": 192,
+      "anchor": {
+        "x": 63,
+        "y": 180
+      },
+      "padding": 12
+    },
+    {
+      "name": "surgery_table_arms",
+      "category": "medical_lab",
+      "file": "Tiles/MedicalLab/scifi_medical_lab_surgery_table_arms_01.png",
+      "width": 192,
+      "height": 181,
+      "anchor": {
+        "x": 96,
+        "y": 170
+      },
+      "padding": 11
+    },
+    {
+      "name": "security_turret_floor",
+      "category": "systems",
+      "file": "Tiles/Systems/scifi_systems_security_turret_floor_01.png",
+      "width": 192,
+      "height": 192,
+      "anchor": {
+        "x": 96,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "teleport_pad_ring",
+      "category": "systems",
+      "file": "Tiles/Systems/scifi_systems_teleport_pad_ring_01.png",
+      "width": 192,
+      "height": 132,
+      "anchor": {
+        "x": 96,
+        "y": 122
+      },
+      "padding": 10
+    },
+    {
+      "name": "alarm_beacon_red",
+      "category": "systems",
+      "file": "Tiles/Systems/scifi_systems_alarm_beacon_red_01.png",
+      "width": 139,
+      "height": 192,
+      "anchor": {
+        "x": 69,
+        "y": 180
+      },
+      "padding": 12
+    },
+    {
+      "name": "helmet_display_stand",
+      "category": "crew_tech",
+      "file": "Tiles/CrewTech/scifi_crew_tech_helmet_display_stand_01.png",
+      "width": 161,
+      "height": 192,
+      "anchor": {
+        "x": 80,
+        "y": 180
+      },
+      "padding": 12
+    },
+    {
+      "name": "holo_globe_device",
+      "category": "crew_tech",
+      "file": "Tiles/CrewTech/scifi_crew_tech_holo_globe_device_01.png",
+      "width": 158,
+      "height": 192,
+      "anchor": {
+        "x": 79,
+        "y": 178
+      },
+      "padding": 14
+    },
+    {
+      "name": "companion_bot_small",
+      "category": "crew_tech",
+      "file": "Tiles/CrewTech/scifi_crew_tech_companion_bot_small_01.png",
+      "width": 182,
+      "height": 192,
+      "anchor": {
+        "x": 91,
+        "y": 179
+      },
+      "padding": 13
+    },
+    {
+      "name": "wall_window_space",
+      "category": "architecture",
+      "file": "Tiles/Architecture/scifi_architecture_wall_window_space_01.png",
+      "width": 189,
+      "height": 192,
+      "anchor": {
+        "x": 94,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "door_airlock_round",
+      "category": "architecture",
+      "file": "Tiles/Architecture/scifi_architecture_door_airlock_round_01.png",
+      "width": 189,
+      "height": 192,
+      "anchor": {
+        "x": 94,
+        "y": 181
+      },
+      "padding": 11
+    },
+    {
+      "name": "floor_glow_strip",
+      "category": "architecture",
+      "file": "Tiles/Architecture/scifi_architecture_floor_glow_strip_01.png",
+      "width": 187,
+      "height": 192,
+      "anchor": {
+        "x": 93,
+        "y": 181
+      },
+      "padding": 11
+    }
+  ]
+}
